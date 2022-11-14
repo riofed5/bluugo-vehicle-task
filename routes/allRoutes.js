@@ -1,11 +1,4 @@
 const express = require("express");
-// const {
-//   uploadFile,
-//   getVehicleData,
-//   getVehicleDataByKeyword,
-//   totalRowsInVehicleTables,
-// } = require("../controllers");
-
 const vehicleController = require("../controllers/vehicle");
 const tableController = require("../controllers/table");
 
